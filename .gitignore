@@ -53,3 +53,6 @@ next-env.d.ts
 # reels Instagram bruts : re-téléchargeables avec yt-dlp
 /assets/reels/
 /.playwright-mcp/
+
+.vercel
+.env*
