@@ -1,0 +1,13 @@
+{
+  "_note": "Événements boutique (affiche « עכשיו גם אירועים », 10/10/2026). Capacités et formules À REMPLIR avec Youval : null = non affiché.",
+  "updated": "2026-11-08",
+  "guests": { "min": 10, "max": 150, "step": 5, "default": 30 },
+  "_guests": "Bornes du sélecteur d'invités, provisoires. Mettre la vraie capacité (assis / debout).",
+  "capacity": { "seated": null, "standing": null },
+  "types": ["birthday", "company", "family", "private"],
+  "formulas": [
+    { "id": "foodtruck", "pricePerPerson": null },
+    { "id": "boutique", "pricePerPerson": null },
+    { "id": "custom", "pricePerPerson": null }
+  ]
+}

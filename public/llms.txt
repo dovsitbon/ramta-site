@@ -1,0 +1,18 @@
+# רמתא Ramta – פודטראק בשרי בשומרון
+
+> Ramta (רַמְתָּא) is a kosher mehadrin meat food truck in Brukhin (ברוכין), Samaria, Israel, with an open-air terrace facing the hills of Samaria. It also hosts small boutique private events (birthdays, company and family events) with the view.
+
+- Location: פודטראק רמתא ברוכין, Brukhin, Samaria (32.08317, 35.09968) – Waze: https://ul.waze.com/ul?venue_id=23003457.230034568.2141982&navigate=yes
+- Hours (to confirm in winter): Tuesday & Wednesday 12:00–22:00, Thursday 12:00–23:00. Closed Sunday, Monday, Friday, Saturday.
+- Kosher: כשר למהדרין (kosher mehadrin)
+- Food: house burger (בורגרמתא), beer-braised pulled beef sandwich (כריך בשר מפורק בבירה), brisket sandwich, individual meat platter (פלטת בשרים אישית: brisket, pulled beef, lamb kebabs, salad, fries, dips), comforting winter plates.
+- Questions & orders (phone/WhatsApp): +972 55-465-5007
+- Events (Yuval): +972 58-511-6176
+- Instagram: https://www.instagram.com/ramta_foodtruck/
+- Featured by Shomron Tourism (@tourshomron) and Tamar Kosher Food (@tamar_kosherfood)
+
+## Pages
+- [עברית](https://ramta.vercel.app/he)
+- [English](https://ramta.vercel.app/en)
+- [Français](https://ramta.vercel.app/fr)
+- [Español](https://ramta.vercel.app/es)

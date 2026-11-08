@@ -1,0 +1,17 @@
+{
+  "_note": "Horaires de l'affiche épinglée « שעות פתיחה » (Instagram, août 2026). Ils ont annoncé une « ouverture d'hiver » le 31/10/2026 : horaires d'hiver À CONFIRMER. Jours : 0 = dimanche … 6 = samedi. Heure d'Israël.",
+  "timezone": "Asia/Jerusalem",
+  "updated": "2026-11-08",
+  "week": [
+    { "day": 0, "open": null, "close": null },
+    { "day": 1, "open": null, "close": null },
+    { "day": 2, "open": "12:00", "close": "22:00" },
+    { "day": 3, "open": "12:00", "close": "22:00" },
+    { "day": 4, "open": "12:00", "close": "23:00" },
+    { "day": 5, "open": null, "close": null },
+    { "day": 6, "open": null, "close": null }
+  ],
+  "closures": [
+    { "_exemple": "Ajouter ici les fermetures exceptionnelles (fêtes, météo).", "date": "2026-01-01", "reason": { "he": "", "en": "", "fr": "", "es": "" } }
+  ]
+}

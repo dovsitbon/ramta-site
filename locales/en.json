@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Meat food truck in Samaria – Brukhin | Ramta רמתא",
+    "description": "Ramta is a kosher (mehadrin) meat food truck in Brukhin, Samaria. Burgers, beer-braised pulled beef and meat platters facing the hills, plus intimate sunset events. Hours, menu and Waze directions.",
+    "ogAlt": "Ramta's terrace at sunset, facing the hills of Samaria"
+  },
+  "a11y": { "skip": "Skip to content", "openMenu": "Open menu", "closeMenu": "Close menu", "lang": "Choose language", "newTab": "(opens in a new tab)" },
+  "intro": { "skip": "Skip" },
+  "nav": {
+    "menu": "Menu",
+    "events": "Events",
+    "vibe": "The vibe",
+    "directions": "Getting here",
+    "contact": "Contact",
+    "navigate": "Get directions",
+    "privateEvent": "Private event",
+    "call": "Call",
+    "instagram": "Instagram"
+  },
+  "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+  "status": {
+    "openNow": "Open now",
+    "until": "until {time}",
+    "closedNow": "Closed now",
+    "opensToday": "Opens today at {time}",
+    "opensTomorrow": "Opens tomorrow at {time}",
+    "opensOn": "Opens {day} at {time}",
+    "todayOpen": "Open today {from}–{to}",
+    "todayClosed": "Closed today",
+    "closure": "Closed today: {reason}"
+  },
+  "banner": { "label": "Good to know", "close": "Close notice" },
+  "hero": {
+    "kicker": "Meat food truck · Brukhin, Samaria",
+    "title": "Food, view, land",
+    "lead": "Fresh meat off the griddle, wooden tables and the sun setting over the Samarian hills. We're waiting for you in Brukhin.",
+    "ctaMenu": "See the menu",
+    "videoLabel": "Ramta's terrace at sunset, with lavender planters and string lights",
+    "featured": "Featured by Shomron Tourism"
+  },
+  "tiles": {
+    "title": "What are you in the mood for?",
+    "items": { "burgers": "Burgers", "sandwiches": "Sandwiches", "platters": "Meat platters", "winter": "Winter plates", "events": "Events" }
+  },
+  "services": {
+    "items": [
+      { "id": "waze", "title": "Waze directions", "text": "One tap and you're on your way to Brukhin." },
+      { "id": "hours", "title": "Opening hours", "text": "Tuesday to Thursday, from lunch until late." },
+      { "id": "events", "title": "Private events", "text": "Small events with the view, planned with you." },
+      { "id": "whatsapp", "title": "WhatsApp", "text": "A question, an order, or just to say hi." }
+    ]
+  },
+  "menu": {
+    "kicker": "The menu",
+    "title": "From the griddle to your table",
+    "lead": "A short menu, everything fresh and served hot. Prices in shekels.",
+    "tabs": { "burgers": "Burgers", "sandwiches": "Sandwiches", "platters": "Platters", "winter": "Winter plates", "sides": "Sides & drinks" },
+    "priceTbd": "Price coming soon",
+    "toFill": "To fill in",
+    "updated": "Updated {date}",
+    "kosher": "Kosher mehadrin",
+    "allergens": "Any allergies? Tell us when you order and we'll adapt.",
+    "orderCta": "Order ahead for pickup"
+  },
+  "order": {
+    "title": "Order ahead for pickup",
+    "lead": "Pick your dishes and a pickup time. The order reaches us on WhatsApp and we confirm.",
+    "qty": "Quantity",
+    "less": "Less",
+    "more": "More",
+    "day": "Pickup day",
+    "time": "Pickup time",
+    "noSlots": "No pickup times left that day",
+    "name": "Name",
+    "phone": "Phone",
+    "notes": "Notes (allergies, no onion…)",
+    "send": "Send order on WhatsApp",
+    "empty": "Choose at least one dish",
+    "close": "Close",
+    "waTitle": "Pickup order – Ramta",
+    "waPickup": "Pickup",
+    "waName": "Name",
+    "waPhone": "Phone",
+    "waNotes": "Notes"
+  },
+  "blocks": [
+    {
+      "id": "view",
+      "kicker": "View & atmosphere",
+      "title": "The best sunset in Samaria, with a hot plate",
+      "text": "Our terrace faces west, towards the hills. In the evening the string lights come on, sometimes there's a guitar, and there's always a table with a view.",
+      "cta": "Get directions",
+      "videoLabel": "An evening on the terrace: string lights and a guitarist"
+    },
+    {
+      "id": "kitchen",
+      "kicker": "The kitchen",
+      "title": "Fresh meat, patient cooking, served hot",
+      "text": "The brisket cooks for hours, the pulled beef rests in beer, and the patties only hit the griddle once you order.",
+      "cta": "See the menu",
+      "videoLabel": "Sauce poured over a pulled beef sandwich"
+    },
+    {
+      "id": "events",
+      "kicker": "Boutique events",
+      "title": "An intimate event facing the hills",
+      "text": "Set tables, Ramta's food and the sunset as your backdrop. A birthday, a team evening or a family meal – we take care of everything.",
+      "cta": "Plan an event"
+    }
+  ],
+  "events": {
+    "kicker": "Events at Ramta",
+    "title": "A private event with a view",
+    "lead": "A fully equipped, thoughtfully designed space in Brukhin, with personal care from the first call to dessert.",
+    "perks": ["Boutique events", "A one-of-a-kind food experience", "Equipped, designed space", "Personal attention"],
+    "guests": "How many guests?",
+    "guestsUnit": "guests",
+    "date": "Date",
+    "start": "Let's start",
+    "contactLine": "Details and bookings: {name}, {phone}",
+    "capacity": "Up to {n} seated guests",
+    "formulasTitle": "Packages",
+    "formulas": {
+      "foodtruck": { "name": "Food truck at your event", "text": "The truck serves from the menu, guests choose." },
+      "boutique": { "name": "Boutique dinner", "text": "Set tables and a seated, served menu." },
+      "custom": { "name": "Made to measure", "text": "Tell us what you have in mind and we'll build it together." }
+    },
+    "perPerson": "per person",
+    "priceOnRequest": "Price on request"
+  },
+  "eventForm": {
+    "title": "Event details",
+    "type": "Type of event",
+    "types": { "birthday": "Birthday", "company": "Company event", "family": "Family celebration", "private": "Private evening" },
+    "moment": "Lunch or evening?",
+    "moments": { "noon": "Lunch", "evening": "Evening" },
+    "menuPref": "Menu preference",
+    "menuPrefs": { "foodtruck": "From the food truck", "boutique": "Served dinner", "unsure": "Not sure yet" },
+    "music": "Music?",
+    "musics": { "live": "Live music", "dj": "DJ", "none": "None" },
+    "budget": "Budget per person (optional)",
+    "budgetPh": "e.g. 150",
+    "name": "Name",
+    "phone": "Phone",
+    "message": "Tell us more",
+    "send": "Send on WhatsApp",
+    "required": "Missing: {fields}",
+    "note": "WhatsApp opens with your message ready. You just press send.",
+    "waTitle": "Event request – Ramta",
+    "waType": "Type",
+    "waDate": "Date",
+    "waGuests": "Guests",
+    "waMoment": "When",
+    "waMenu": "Menu",
+    "waMusic": "Music",
+    "waBudget": "Budget per person",
+    "waName": "Name",
+    "waPhone": "Phone",
+    "waMessage": "Message"
+  },
+  "gallery": {
+    "kicker": "The vibe",
+    "title": "This is what it looks like",
+    "more": "More on Instagram",
+    "close": "Close",
+    "prev": "Previous",
+    "next": "Next",
+    "counter": "{n} of {total}",
+    "slot": "Your photos and videos will go here"
+  },
+  "press": {
+    "kicker": "They talk about us",
+    "title": "Seen by",
+    "items": {
+      "tourshomron": "Shomron Tourism presented the new meat food truck that opened where the old farm used to be.",
+      "tamar": "Tamar, who recommends kosher spots, came for the sunset and the meat platter."
+    },
+    "watch": "Watch the video"
+  },
+  "info": {
+    "kicker": "Getting here",
+    "title": "Brukhin, Samaria",
+    "address": "Ramta food truck, Brukhin, Samaria",
+    "addressNote": "An open-air spot facing west, towards the hills of Samaria.",
+    "waze": "Open in Waze",
+    "map": "Show the map",
+    "mapNote": "The map only loads when you click (Google Maps).",
+    "hoursTitle": "Opening hours",
+    "closed": "Closed",
+    "hoursNote": "Winter hours may change. Updates in the banner at the top and on Instagram.",
+    "parkingTitle": "Parking",
+    "parking": "Free parking next to the site.",
+    "contactTitle": "Contact",
+    "questions": "Questions & orders",
+    "eventsContact": "Events"
+  },
+  "faq": {
+    "title": "Questions",
+    "items": [
+      { "q": "Is the food kosher?", "a": "Yes, Ramta is kosher mehadrin. You can ask to see the certificate on site." },
+      { "q": "Is it good for kids?", "a": "Absolutely. There are picnic tables outside and dishes kids love, like burgers and fries." },
+      { "q": "Is there parking?", "a": "Yes, free parking right next to the site." },
+      { "q": "Can we hold an event with you?", "a": "Yes. We host small events with the view: birthdays, company and family events. Send the details through the events form and Yuval will get back to you." },
+      { "q": "Can we order ahead?", "a": "Yes, through the pickup order on the site or on WhatsApp. Choose a pickup time within opening hours and we'll confirm." },
+      { "q": "What about allergens?", "a": "Tell us about any allergy when you order. We'll tell you exactly what's in each dish." },
+      { "q": "Which days are you open?", "a": "Usually Tuesday and Wednesday 12:00–22:00 and Thursday 12:00–23:00. Winter hours can change, so check the banner at the top." }
+    ]
+  },
+  "mobileBar": { "navigate": "Directions", "event": "Event", "call": "Call" },
+  "footer": {
+    "tagline": "Meat food truck and boutique events in Brukhin, Samaria.",
+    "legal": "Privacy",
+    "legalText": "This site collects no data and uses no tracking cookies. The order and event forms open WhatsApp on your device; nothing is stored on the site.",
+    "rights": "All rights reserved",
+    "photos": "Photos from Ramta's Instagram."
+  },
+  "whatsapp": { "hello": "Hi Ramta, I have a question:" },
+  "alt": {
+    "terrasse-coucher-fleurs": "The terrace at sunset, flower planters and string lights",
+    "burger-gros-plan": "Ramta's burger up close, with lettuce and tomato",
+    "burger-frites": "Burger with fries and pickled red onion",
+    "burger-oignons": "The Ramta burger with caramelised red onion",
+    "sandwich-sauce": "Sauce poured over a pulled beef sandwich",
+    "sandwich-boeuf": "Pulled beef sandwich in country bread",
+    "sandwich-frites": "Seasoned fries next to a meat sandwich",
+    "planche-kebabs": "Meat platter with kebabs and pulled beef, facing the view",
+    "planche-personnelle": "Individual meat platter with salad and fries",
+    "brisket-tranche": "Slices of brisket with herbs",
+    "tartine-boeuf": "Country bread topped with meat, tahini and greens",
+    "lafa-boeuf": "Lafa with meat, rocket and red onion",
+    "burger-maison": "Burger with pickled red onion and fries",
+    "plancha": "Pulled beef on the griddle",
+    "soleil-couchant": "The sun setting behind the hills",
+    "terrasse-pergola": "Wooden pergola with flowers at sunset",
+    "pergola-crepuscule": "The lit pergola at dusk",
+    "terrasse-tables-vue": "Tables on the gravel facing an open view",
+    "table-pique-nique": "Picnic table with dishes, facing the hills",
+    "foodtruck-fleurs": "The food truck with its logo and flower beds",
+    "foodtruck-logo-lavande": "Ramta's sign above a bed of lavender",
+    "foodtruck-terrasse": "The food truck and its deck at sunset",
+    "route-collines": "The road down to the Samarian hills at sunset",
+    "vue-collines": "The hills of Samaria by day",
+    "terrasse-nuit-guirlandes": "The terrace at night under string lights",
+    "terrasse-nuit-vue": "String lights over the terrace at night",
+    "musique-live": "A guitarist during a live music evening",
+    "longue-table": "A long event table set with white plates",
+    "tables-vue-collines": "A round table set facing the hills",
+    "table-terrasse-vue": "A table set on the terrace facing the view",
+    "tables-soir": "Event tables set in the evening under lights",
+    "tables-sous-tente": "Tables set inside the covered area",
+    "evenement-nuit": "An evening event, round tables under lights",
+    "table-dressee": "A set table with wine and flowers",
+    "four-pizza": "A pizza oven at work during an event"
+  }
+}

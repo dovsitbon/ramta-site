@@ -1,0 +1,30 @@
+{
+  "name": "ramta-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Site vitrine, carte et événements Ramta – רַמְתָּא (food truck carné, Brukhin, Samarie)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "media": "node scripts/media.mjs"
+  },
+  "dependencies": {
+    "motion": "^12",
+    "next": "16.4.4",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.4",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

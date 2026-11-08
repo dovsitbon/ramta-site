@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Food truck de carne en Samaria – Brukhin | Ramta רמתא",
+    "description": "Ramta es un food truck de carne kosher (mehadrin) en Brukhin, Samaria. Hamburguesas, ternera deshilachada a la cerveza y tablas de carne frente a las colinas, y eventos íntimos al atardecer. Horario, carta y cómo llegar con Waze.",
+    "ogAlt": "La terraza de Ramta al atardecer, frente a las colinas de Samaria"
+  },
+  "a11y": { "skip": "Ir al contenido", "openMenu": "Abrir menú", "closeMenu": "Cerrar menú", "lang": "Elegir idioma", "newTab": "(se abre en una pestaña nueva)" },
+  "intro": { "skip": "Saltar" },
+  "nav": {
+    "menu": "La carta",
+    "events": "Eventos",
+    "vibe": "Ambiente",
+    "directions": "Cómo llegar",
+    "contact": "Contacto",
+    "navigate": "Cómo llegar",
+    "privateEvent": "Evento privado",
+    "call": "Llamar",
+    "instagram": "Instagram"
+  },
+  "days": ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"],
+  "status": {
+    "openNow": "Abierto ahora",
+    "until": "hasta las {time}",
+    "closedNow": "Cerrado ahora",
+    "opensToday": "Abre hoy a las {time}",
+    "opensTomorrow": "Abre mañana a las {time}",
+    "opensOn": "Abre el {day} a las {time}",
+    "todayOpen": "Abierto hoy {from}–{to}",
+    "todayClosed": "Hoy cerrado",
+    "closure": "Hoy cerrado: {reason}"
+  },
+  "banner": { "label": "Información práctica", "close": "Cerrar aviso" },
+  "hero": {
+    "kicker": "Food truck de carne · Brukhin, Samaria",
+    "title": "Cocina, paisaje, tierra",
+    "lead": "Carne fresca a la plancha, mesas de madera y el sol que se pone sobre las colinas de Samaria. Os esperamos en Brukhin.",
+    "ctaMenu": "Ver la carta",
+    "videoLabel": "La terraza de Ramta al atardecer, con jardineras de lavanda y guirnaldas de luces",
+    "featured": "Recomendado por Turismo de Samaria"
+  },
+  "tiles": {
+    "title": "¿Qué os apetece hoy?",
+    "items": { "burgers": "Hamburguesas", "sandwiches": "Bocadillos", "platters": "Tablas de carne", "winter": "Platos de invierno", "events": "Eventos" }
+  },
+  "services": {
+    "items": [
+      { "id": "waze", "title": "Cómo llegar con Waze", "text": "Un toque y ya estáis de camino a Brukhin." },
+      { "id": "hours", "title": "Horario", "text": "De martes a jueves, desde el mediodía hasta la noche." },
+      { "id": "events", "title": "Eventos privados", "text": "Eventos íntimos frente al paisaje, preparados con vosotros." },
+      { "id": "whatsapp", "title": "WhatsApp", "text": "Una pregunta, un pedido o simplemente un hola." }
+    ]
+  },
+  "menu": {
+    "kicker": "La carta",
+    "title": "De la plancha a vuestra mesa",
+    "lead": "Una carta corta, todo fresco y servido caliente. Precios en séqueles.",
+    "tabs": { "burgers": "Hamburguesas", "sandwiches": "Bocadillos", "platters": "Tablas", "winter": "Platos de invierno", "sides": "Acompañamientos y bebidas" },
+    "priceTbd": "Precio próximamente",
+    "toFill": "Por completar",
+    "updated": "Actualizado el {date}",
+    "kosher": "Kosher mehadrin",
+    "allergens": "¿Alguna alergia? Decídnoslo al pedir y lo adaptamos.",
+    "orderCta": "Pedir para recoger"
+  },
+  "order": {
+    "title": "Pedido para recoger",
+    "lead": "Elegid los platos y una hora de recogida. El pedido nos llega por WhatsApp y lo confirmamos.",
+    "qty": "Cantidad",
+    "less": "Menos",
+    "more": "Más",
+    "day": "Día de recogida",
+    "time": "Hora de recogida",
+    "noSlots": "No quedan horas de recogida ese día",
+    "name": "Nombre",
+    "phone": "Teléfono",
+    "notes": "Notas (alergias, sin cebolla…)",
+    "send": "Enviar el pedido por WhatsApp",
+    "empty": "Elegid al menos un plato",
+    "close": "Cerrar",
+    "waTitle": "Pedido para recoger – Ramta",
+    "waPickup": "Recogida",
+    "waName": "Nombre",
+    "waPhone": "Teléfono",
+    "waNotes": "Notas"
+  },
+  "blocks": [
+    {
+      "id": "view",
+      "kicker": "El paisaje y el ambiente",
+      "title": "El atardecer más bonito de Samaria, con un plato caliente",
+      "text": "Nuestra terraza mira al oeste, hacia las montañas. Por la noche se encienden las guirnaldas, a veces hay guitarra y siempre hay una mesa con vistas.",
+      "cta": "Cómo llegar",
+      "videoLabel": "Una noche en la terraza: guirnaldas de luces y un guitarrista"
+    },
+    {
+      "id": "kitchen",
+      "kicker": "La cocina",
+      "title": "Carne fresca, cocción paciente, servida caliente",
+      "text": "El brisket se cocina durante horas, la ternera deshilachada reposa en cerveza y las hamburguesas solo tocan la plancha cuando pedís.",
+      "cta": "Ver la carta",
+      "videoLabel": "Salsa sobre un bocadillo de ternera deshilachada"
+    },
+    {
+      "id": "events",
+      "kicker": "Eventos boutique",
+      "title": "Un evento íntimo frente a las montañas",
+      "text": "Mesas puestas, la cocina de Ramta y el atardecer como decorado. Cumpleaños, cena de empresa o comida familiar: nos ocupamos de todo.",
+      "cta": "Organizar un evento"
+    }
+  ],
+  "events": {
+    "kicker": "Eventos en Ramta",
+    "title": "Un evento privado con vistas",
+    "lead": "Un espacio equipado y cuidado en Brukhin, con atención personal desde la primera llamada hasta el postre.",
+    "perks": ["Eventos boutique", "Una experiencia culinaria única", "Un espacio equipado y cuidado", "Atención personal"],
+    "guests": "¿Cuántos invitados?",
+    "guestsUnit": "invitados",
+    "date": "Fecha",
+    "start": "Empezar",
+    "contactLine": "Información y reservas: {name}, {phone}",
+    "capacity": "Hasta {n} invitados sentados",
+    "formulasTitle": "Fórmulas",
+    "formulas": {
+      "foodtruck": { "name": "El food truck en vuestro evento", "text": "El food truck sirve de la carta y los invitados eligen." },
+      "boutique": { "name": "Cena boutique", "text": "Mesas puestas y menú servido en la mesa." },
+      "custom": { "name": "A medida", "text": "Contadnos vuestra idea y la construimos juntos." }
+    },
+    "perPerson": "por persona",
+    "priceOnRequest": "Precio a consultar"
+  },
+  "eventForm": {
+    "title": "Vuestro evento",
+    "type": "Tipo de evento",
+    "types": { "birthday": "Cumpleaños", "company": "Evento de empresa", "family": "Fiesta familiar", "private": "Velada privada" },
+    "moment": "¿Mediodía o noche?",
+    "moments": { "noon": "Mediodía", "evening": "Noche" },
+    "menuPref": "Preferencia de menú",
+    "menuPrefs": { "foodtruck": "Del food truck", "boutique": "Cena servida", "unsure": "Aún no lo sabemos" },
+    "music": "¿Música?",
+    "musics": { "live": "Música en vivo", "dj": "DJ", "none": "Sin música" },
+    "budget": "Presupuesto por persona (opcional)",
+    "budgetPh": "p. ej. 150",
+    "name": "Nombre",
+    "phone": "Teléfono",
+    "message": "Contadnos más",
+    "send": "Enviar por WhatsApp",
+    "required": "Falta: {fields}",
+    "note": "WhatsApp se abre con el mensaje ya listo. Solo tenéis que enviarlo.",
+    "waTitle": "Solicitud de evento – Ramta",
+    "waType": "Tipo",
+    "waDate": "Fecha",
+    "waGuests": "Invitados",
+    "waMoment": "Momento",
+    "waMenu": "Menú",
+    "waMusic": "Música",
+    "waBudget": "Presupuesto por persona",
+    "waName": "Nombre",
+    "waPhone": "Teléfono",
+    "waMessage": "Mensaje"
+  },
+  "gallery": {
+    "kicker": "Ambiente",
+    "title": "Así se vive aquí",
+    "more": "Más en Instagram",
+    "close": "Cerrar",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "counter": "{n} de {total}",
+    "slot": "Aquí irán vuestras fotos y vídeos"
+  },
+  "press": {
+    "kicker": "Hablan de nosotros",
+    "title": "Ya pasaron por aquí",
+    "items": {
+      "tourshomron": "Turismo de Samaria presentó el nuevo food truck de carne que abrió donde estaba la antigua granja.",
+      "tamar": "Tamar, que recomienda sitios kosher, vino por el atardecer y la tabla de carnes."
+    },
+    "watch": "Ver el vídeo"
+  },
+  "info": {
+    "kicker": "Cómo llegar",
+    "title": "Brukhin, Samaria",
+    "address": "Food truck Ramta, Brukhin, Samaria",
+    "addressNote": "Un espacio al aire libre orientado al oeste, frente a las colinas de Samaria.",
+    "waze": "Abrir en Waze",
+    "map": "Mostrar el mapa",
+    "mapNote": "El mapa solo se carga al pulsar (Google Maps).",
+    "hoursTitle": "Horario",
+    "closed": "Cerrado",
+    "hoursNote": "El horario de invierno puede cambiar. Las novedades, en el aviso de arriba y en Instagram.",
+    "parkingTitle": "Aparcamiento",
+    "parking": "Aparcamiento gratuito junto al recinto.",
+    "contactTitle": "Contacto",
+    "questions": "Preguntas y pedidos",
+    "eventsContact": "Eventos"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      { "q": "¿La comida es kosher?", "a": "Sí, Ramta es kosher mehadrin. Podéis pedir ver el certificado allí mismo." },
+      { "q": "¿Se puede ir con niños?", "a": "Claro. Hay mesas de picnic fuera y platos que les encantan, como hamburguesa con patatas." },
+      { "q": "¿Hay aparcamiento?", "a": "Sí, aparcamiento gratuito junto al recinto." },
+      { "q": "¿Podemos celebrar un evento con vosotros?", "a": "Sí. Organizamos eventos íntimos con vistas: cumpleaños, eventos de empresa y familiares. Mandad los detalles con el formulario de eventos y Yuval os responderá." },
+      { "q": "¿Se puede pedir con antelación?", "a": "Sí, con el pedido para recoger de la web o por WhatsApp. Elegid una hora de recogida dentro del horario y os lo confirmamos." },
+      { "q": "¿Y los alérgenos?", "a": "Avisadnos de cualquier alergia al pedir. Os diremos exactamente qué lleva cada plato." },
+      { "q": "¿Qué días abrís?", "a": "Normalmente martes y miércoles de 12:00 a 22:00 y jueves de 12:00 a 23:00. En invierno el horario puede cambiar, así que mirad el aviso de arriba." }
+    ]
+  },
+  "mobileBar": { "navigate": "Llegar", "event": "Evento", "call": "Llamar" },
+  "footer": {
+    "tagline": "Food truck de carne y eventos boutique en Brukhin, Samaria.",
+    "legal": "Privacidad",
+    "legalText": "Esta web no recoge datos ni usa cookies de seguimiento. Los formularios de pedido y de eventos abren WhatsApp en vuestro dispositivo; no se guarda nada en la web.",
+    "rights": "Todos los derechos reservados",
+    "photos": "Fotos del Instagram de Ramta."
+  },
+  "whatsapp": { "hello": "Hola Ramta, tengo una pregunta:" },
+  "alt": {
+    "terrasse-coucher-fleurs": "La terraza al atardecer, jardineras con flores y guirnaldas",
+    "burger-gros-plan": "La hamburguesa de Ramta de cerca, con lechuga y tomate",
+    "burger-frites": "Hamburguesa con patatas y cebolla morada encurtida",
+    "burger-oignons": "La hamburguesa Ramta con cebolla morada caramelizada",
+    "sandwich-sauce": "Salsa sobre un bocadillo de ternera deshilachada",
+    "sandwich-boeuf": "Bocadillo de ternera deshilachada en pan de payés",
+    "sandwich-frites": "Patatas sazonadas junto a un bocadillo",
+    "planche-kebabs": "Tabla de carne con kebabs y ternera deshilachada, con vistas",
+    "planche-personnelle": "Tabla de carnes individual con ensalada y patatas",
+    "brisket-tranche": "Lonchas de brisket con hierbas",
+    "tartine-boeuf": "Pan de payés con carne, tahini y hojas verdes",
+    "lafa-boeuf": "Lafa con carne, rúcula y cebolla morada",
+    "burger-maison": "Hamburguesa con cebolla morada encurtida y patatas",
+    "plancha": "Ternera deshilachada en la plancha",
+    "soleil-couchant": "El sol se pone detrás de las colinas",
+    "terrasse-pergola": "Pérgola de madera con flores al atardecer",
+    "pergola-crepuscule": "La pérgola iluminada al anochecer",
+    "terrasse-tables-vue": "Mesas sobre la grava frente a un paisaje abierto",
+    "table-pique-nique": "Mesa de picnic con platos, frente a las colinas",
+    "foodtruck-fleurs": "El food truck con su logo y parterres de flores",
+    "foodtruck-logo-lavande": "El letrero de Ramta sobre un parterre de lavanda",
+    "foodtruck-terrasse": "El food truck y su tarima al atardecer",
+    "route-collines": "La carretera que baja hacia las colinas de Samaria al atardecer",
+    "vue-collines": "Las colinas de Samaria de día",
+    "terrasse-nuit-guirlandes": "La terraza de noche bajo las guirnaldas",
+    "terrasse-nuit-vue": "Guirnaldas de luces sobre la terraza de noche",
+    "musique-live": "Un guitarrista en una noche de música en vivo",
+    "longue-table": "Una mesa larga de evento con platos blancos",
+    "tables-vue-collines": "Una mesa redonda puesta frente a las colinas",
+    "table-terrasse-vue": "Una mesa puesta en la terraza con vistas",
+    "tables-soir": "Mesas de evento puestas por la noche bajo las luces",
+    "tables-sous-tente": "Mesas puestas en el espacio cubierto",
+    "evenement-nuit": "Un evento de noche, mesas redondas bajo las luces",
+    "table-dressee": "Una mesa puesta con vino y flores",
+    "four-pizza": "Un horno de pizza en marcha durante un evento"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "_note": "Carte provisoire, reconstituée d'après les reels et publications Instagram (sept.–oct. 2026). Prix : null = « à remplir ». À compléter avec la story à la une « תפריט » que le client enverra. sample: true = plat vu sur Instagram mais description ou nom à confirmer.",
+  "updated": "2026-11-08",
+  "currency": "₪",
+  "categories": [
+    {
+      "id": "burgers",
+      "items": [
+        {
+          "id": "burgaramta",
+          "name": { "he": "בורגרמתא", "en": "The Ramta burger", "fr": "Le burger Ramta", "es": "La hamburguesa Ramta" },
+          "desc": {
+            "he": "קציצת בקר על הפלנצ'ה, בצל סגול מקורמל, חסה, עגבנייה ורוטב הבית בלחמנייה רכה. מגיע עם צ'יפס.",
+            "en": "Beef patty off the griddle, caramelised red onion, lettuce, tomato and house sauce in a soft bun. Served with fries.",
+            "fr": "Steak de bœuf à la plancha, oignon rouge caramélisé, salade, tomate et sauce maison dans un pain moelleux. Servi avec des frites.",
+            "es": "Hamburguesa de ternera a la plancha, cebolla morada caramelizada, lechuga, tomate y salsa de la casa en pan tierno. Con patatas fritas."
+          },
+          "price": null,
+          "photo": "/media/plats/burger-oignons.jpg",
+          "sample": true
+        },
+        {
+          "id": "burger-ramta-2",
+          "name": { "he": "המבורגר שני — למילוי", "en": "Second burger (to fill in)", "fr": "Deuxième burger (à remplir)", "es": "Segunda hamburguesa (por completar)" },
+          "desc": { "he": "המקום שמור למנה הבאה מהתפריט.", "en": "Placeholder for the next dish on the menu.", "fr": "Emplacement réservé au prochain plat de la carte.", "es": "Espacio reservado para el próximo plato de la carta." },
+          "price": null,
+          "photo": "/media/plats/burger-maison.jpg",
+          "sample": true,
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "items": [
+        {
+          "id": "pulled-beer",
+          "name": { "he": "כריך בשר מפורק בבירה", "en": "Beer-braised pulled beef sandwich", "fr": "Sandwich de bœuf effiloché à la bière", "es": "Bocadillo de ternera deshilachada a la cerveza" },
+          "desc": {
+            "he": "בשר בקר שמתבשל לאט בבירה עד שהוא מתפרק, איולי ועשבים טריים בלחם כפרי קלוי.",
+            "en": "Beef slow-cooked in beer until it falls apart, aioli and fresh herbs in toasted country bread.",
+            "fr": "Bœuf mijoté longuement à la bière jusqu'à s'effilocher, aïoli et herbes fraîches dans un pain de campagne grillé.",
+            "es": "Ternera cocinada a fuego lento en cerveza hasta deshacerse, alioli y hierbas frescas en pan de payés tostado."
+          },
+          "price": null,
+          "photo": "/media/plats/sandwich-sauce.jpg",
+          "sample": true
+        },
+        {
+          "id": "brisket",
+          "name": { "he": "כריך בריסקט", "en": "Brisket sandwich", "fr": "Sandwich au brisket", "es": "Bocadillo de brisket" },
+          "desc": {
+            "he": "פרוסות בריסקט עסיסיות, עשבי תיבול ורוטב על לחם כפרי.",
+            "en": "Juicy slices of brisket, herbs and sauce on country bread.",
+            "fr": "Tranches de brisket fondantes, herbes fraîches et sauce sur pain de campagne.",
+            "es": "Lonchas jugosas de brisket, hierbas y salsa sobre pan de payés."
+          },
+          "price": null,
+          "photo": "/media/plats/brisket-tranche.jpg",
+          "sample": true
+        },
+        {
+          "id": "lafa",
+          "name": { "he": "לאפה בשר", "en": "Meat lafa", "fr": "Lafa à la viande", "es": "Lafa de carne" },
+          "desc": {
+            "he": "לאפה חמה עם בשר מהפלנצ'ה, רוקט ובצל סגול.",
+            "en": "Warm lafa flatbread with griddled meat, rocket and red onion.",
+            "fr": "Galette lafa chaude, viande à la plancha, roquette et oignon rouge.",
+            "es": "Lafa caliente con carne a la plancha, rúcula y cebolla morada."
+          },
+          "price": null,
+          "photo": "/media/plats/lafa-boeuf.jpg",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "id": "platters",
+      "items": [
+        {
+          "id": "platter-solo",
+          "name": { "he": "פלטת בשרים אישית", "en": "Individual meat platter", "fr": "Planche de viandes individuelle", "es": "Tabla de carnes individual" },
+          "desc": {
+            "he": "מיקס נתחי בריסקט, בשר מפורק וקבבוני טלה, לצד סלט מרענן, צ'יפס ומטבלים.",
+            "en": "A mix of brisket, pulled beef and lamb kebabs, with a fresh salad, fries and dips.",
+            "fr": "Un assortiment de brisket, bœuf effiloché et petits kebabs d'agneau, avec salade fraîche, frites et sauces.",
+            "es": "Un surtido de brisket, ternera deshilachada y kebabs de cordero, con ensalada fresca, patatas fritas y salsas."
+          },
+          "price": null,
+          "photo": "/media/plats/planche-personnelle.jpg",
+          "sample": false
+        },
+        {
+          "id": "platter-share",
+          "name": { "he": "פלטה לשולחן — למילוי", "en": "Sharing platter (to fill in)", "fr": "Planche à partager (à remplir)", "es": "Tabla para compartir (por completar)" },
+          "desc": { "he": "המקום שמור לפלטה הזוגית או המשפחתית, אם יש.", "en": "Placeholder for a sharing or family platter, if there is one.", "fr": "Emplacement réservé à une planche à deux ou en famille, s'il y en a une.", "es": "Espacio reservado para una tabla para dos o familiar, si la hay." },
+          "price": null,
+          "photo": "/media/plats/planche-kebabs.jpg",
+          "sample": true,
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "winter",
+      "items": [
+        {
+          "id": "winter-1",
+          "name": { "he": "מנות החורף — למילוי", "en": "Winter plates (to fill in)", "fr": "Plats d'hiver (à remplir)", "es": "Platos de invierno (por completar)" },
+          "desc": {
+            "he": "מנות מפנקות ומנחמות לערבים הקרים. התפריט המלא יעלה כאן.",
+            "en": "Comforting plates for cold evenings. The full list goes here.",
+            "fr": "Des plats réconfortants pour les soirées fraîches. La liste complète viendra ici.",
+            "es": "Platos reconfortantes para las noches frías. La lista completa irá aquí."
+          },
+          "price": null,
+          "photo": "/media/plats/tartine-boeuf.jpg",
+          "sample": true,
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "items": [
+        {
+          "id": "fries",
+          "name": { "he": "צ'יפס", "en": "Fries", "fr": "Frites", "es": "Patatas fritas" },
+          "desc": { "he": "צ'יפס דק ופריך עם תיבול הבית.", "en": "Thin, crisp fries with house seasoning.", "fr": "Frites fines et croustillantes, assaisonnement maison.", "es": "Patatas finas y crujientes con el aliño de la casa." },
+          "price": null,
+          "photo": "/media/plats/sandwich-frites.jpg",
+          "sample": true
+        },
+        {
+          "id": "drinks",
+          "name": { "he": "שתייה קרה וחמה — למילוי", "en": "Cold & hot drinks (to fill in)", "fr": "Boissons fraîches et chaudes (à remplir)", "es": "Bebidas frías y calientes (por completar)" },
+          "desc": { "he": "רשימת השתייה תעלה כאן.", "en": "The drinks list goes here.", "fr": "La liste des boissons viendra ici.", "es": "La lista de bebidas irá aquí." },
+          "price": null,
+          "photo": null,
+          "sample": true,
+          "placeholder": true
+        }
+      ]
+    }
+  ]
+}

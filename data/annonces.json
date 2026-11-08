@@ -1,0 +1,29 @@
+{
+  "_note": "Annonces du bandeau du haut. Seules celles avec active: true et dans leurs dates s'affichent (la première trouvée).",
+  "items": [
+    {
+      "id": "hiver-2026",
+      "active": true,
+      "from": "2026-10-31",
+      "to": "2027-03-31",
+      "text": {
+        "he": "החורף הגיע לרמתא: מנות חמות ומנחמות מול הנוף",
+        "en": "Winter is here at Ramta: warm, comforting plates with the view",
+        "fr": "L'hiver arrive chez Ramta : des plats chauds et réconfortants face à la vue",
+        "es": "Llegó el invierno a Ramta: platos calientes y reconfortantes frente al paisaje"
+      }
+    },
+    {
+      "id": "musique-live",
+      "active": false,
+      "from": "2026-11-12",
+      "to": "2026-11-12",
+      "text": {
+        "he": "ביום חמישי: ערב מוזיקה חיה מול השקיעה",
+        "en": "Thursday: live music at sunset",
+        "fr": "Jeudi : soirée musique live au coucher du soleil",
+        "es": "Jueves: música en vivo al atardecer"
+      }
+    }
+  ]
+}

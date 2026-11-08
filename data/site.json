@@ -1,0 +1,51 @@
+{
+  "url": "https://ramta.vercel.app",
+  "name": "רַמְתָּא",
+  "nameLatin": "Ramta",
+  "instagram": "https://www.instagram.com/ramta_foodtruck/",
+  "instagramHandle": "@ramta_foodtruck",
+  "facebook": "https://www.facebook.com/1147454011775516",
+  "waze": "https://ul.waze.com/ul?venue_id=23003457.230034568.2141982&navigate=yes",
+  "_waze": "Lien Waze de leur bio Instagram : lieu « פודטראק רמתא ברוכין ».",
+  "phone": {
+    "display": "055-465-5007",
+    "intl": "+972 55-465-5007",
+    "wa": "972554655007"
+  },
+  "eventsPhone": {
+    "display": "058-511-6176",
+    "intl": "+972 58-511-6176",
+    "wa": "972585116176",
+    "contact": {
+      "he": "יובל",
+      "en": "Yuval",
+      "fr": "Youval",
+      "es": "Yuval"
+    }
+  },
+  "_eventsPhone": "Numéro et prénom lus sur l'affiche « עכשיו גם אירועים » (Instagram, 10/10/2026). À confirmer : quel numéro reçoit les demandes WhatsApp.",
+  "geo": {
+    "lat": 32.08317,
+    "lng": 35.09968
+  },
+  "_geo": "Coordonnées du lieu Waze « פודטראק רמתא ברוכין » (bio Instagram). À confirmer avec leur fiche Google Maps si elle existe.",
+  "kosher": {
+    "label": "כשר למהדרין",
+    "certifier": null
+  },
+  "_kosher": "« כשר למהדרין » est écrit sur leur affiche d'horaires. Organisme de certification à demander.",
+  "press": [
+    {
+      "id": "tourshomron",
+      "name": "Tours Shomron",
+      "handle": "@tourshomron",
+      "url": "https://www.instagram.com/tourshomron/reel/DdPKbFtIsBE/"
+    },
+    {
+      "id": "tamar",
+      "name": "Tamar Kosher Food",
+      "handle": "@tamar_kosherfood",
+      "url": "https://www.instagram.com/tamar_kosherfood/reel/DfU7IENxzaB/"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "_note": "Photos de la galerie « אווירה », dans l'ordre. Pour en ajouter : déposer la photo dans assets/<catégorie>/, l'ajouter dans scripts/media.mjs, lancer npm run media, puis ajouter son chemin ici (et son texte alternatif dans locales/*.json → alt).",
+  "photos": [
+    "/media/lieu/terrasse-pergola.jpg",
+    "/media/lieu/musique-live.jpg",
+    "/media/lieu/table-pique-nique.jpg",
+    "/media/lieu/foodtruck-logo-lavande.jpg",
+    "/media/lieu/terrasse-nuit-guirlandes.jpg",
+    "/media/plats/burger-frites.jpg",
+    "/media/lieu/route-collines.jpg",
+    "/media/lieu/foodtruck-terrasse.jpg",
+    "/media/plats/plancha.jpg",
+    "/media/lieu/terrasse-tables-vue.jpg",
+    "/media/lieu/pergola-crepuscule.jpg",
+    "/media/lieu/terrasse-nuit-vue.jpg",
+    "/media/plats/sandwich-boeuf.jpg",
+    "/media/lieu/vue-collines.jpg"
+  ]
+}
