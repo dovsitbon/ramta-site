@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import site from "@/data/site.json";
 import { CloseIcon, InstagramIcon, MenuIcon, NavIcon, PhoneIcon } from "@/components/icons";
 import { LangSwitch } from "@/components/LangSwitch";
@@ -12,6 +12,8 @@ export function Header() {
   const { lang, d } = useLocale();
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [panelTop, setPanelTop] = useState(0);
+  const headerRef = useRef<HTMLElement>(null);
   const home = `/${lang}`;
 
   const links = [
@@ -40,8 +42,16 @@ export function Header() {
     };
   }, [open]);
 
+  useEffect(() => {
+    if (!open) return;
+    // Le panneau commence sous le header, quelle que soit la hauteur du bandeau au-dessus
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- mesure du DOM à l'ouverture
+    setPanelTop(headerRef.current?.getBoundingClientRect().bottom ?? 0);
+  }, [open]);
+
   return (
-    <header className={`sticky top-0 z-50 transition-[background-color,box-shadow] duration-300 ${scrolled || open ? "bg-cream/95 shadow-[0_1px_0_var(--color-line)] backdrop-blur" : "bg-cream"}`}>
+    // Pas de backdrop-blur quand le menu est ouvert : il ferait du header le bloc conteneur du panneau `fixed` (hauteur 0)
+    <header ref={headerRef} className={`sticky top-0 z-50 transition-[background-color,box-shadow] duration-300 ${open ? "bg-cream shadow-[0_1px_0_var(--color-line)]" : scrolled ? "bg-cream/95 shadow-[0_1px_0_var(--color-line)] backdrop-blur" : "bg-cream"}`}>
       <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:start-3 focus:top-3 focus:z-[60] focus:rounded focus:bg-paper focus:px-3 focus:py-2">
         {d.a11y.skip}
       </a>
@@ -84,7 +94,7 @@ export function Header() {
       </div>
 
       {open && (
-        <div id="mobile-nav" className="fade-in fixed inset-x-0 top-[4.5rem] bottom-0 overflow-y-auto overscroll-contain bg-cream lg:hidden">
+        <div id="mobile-nav" style={{ top: panelTop }} className="fade-in fixed inset-x-0 bottom-0 overflow-y-auto overscroll-contain bg-cream lg:hidden">
           <nav aria-label={d.nav.menu} className="wrap flex flex-col gap-8 py-8">
             <ul className="flex flex-col">
               {links.map((l) => (
